@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Dave-Snider-s-workspace-vmo9sr.us-east-1.staging-xata.dev/db/test",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
