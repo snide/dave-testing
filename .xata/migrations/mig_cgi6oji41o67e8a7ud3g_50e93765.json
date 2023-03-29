@@ -1,0 +1,13 @@
+{
+  "id": "mig_cgi6oji41o67e8a7ud3g",
+  "parentID": "mig_cgi6m6i41o67e8a7uceg",
+  "checksum": "1:50e93765f6bbdfd3562fb6514b88c053cd59fdacbf3930a05651a486363fffae",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "views",
+        "table": "Posts"
+      }
+    }
+  ]
+}
