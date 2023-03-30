@@ -17,6 +17,7 @@ const tables = [
       { name: "author", type: "link", link: { table: "Users" } },
       { name: "createdAt", type: "datetime" },
       { name: "newcolumn", type: "string" },
+      { name: "new", type: "string" },
     ],
   },
   {
